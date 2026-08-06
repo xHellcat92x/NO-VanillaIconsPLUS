@@ -3,6 +3,10 @@ using System.Collections.Generic;
 
 namespace VanillaIconsPLUS;
 
+// ============================================================
+// AA UNIT HELPER
+// ============================================================
+
 public static class AAUnitHelper
 {
     private static readonly HashSet<string> DefaultAAUnitNames = new(StringComparer.Ordinal)
